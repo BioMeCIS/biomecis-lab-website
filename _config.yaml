@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: BioMeCIS Lab
+description: Biomedical Computing and intelligent Systems lab is directed by Dr. Jean X. Gao. We have focused on developing efficient algorithms to solve computational problems in basic medicine and clinics, while making theoretical and fundamental contributions to statistical pattern recognition, machine learning, and computer vision.
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
