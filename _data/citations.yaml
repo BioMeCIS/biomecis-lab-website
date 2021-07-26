@@ -38,7 +38,7 @@
   publisher: BMC Bioinformatics
   date: '2018-12-21'
   link: https://doi.org/ggjv5f
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6302368/bin/12859_2018_2536_Fig3_HTML.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-018-2536-0/MediaObjects/12859_2018_2536_Fig1_HTML.png?as=webp
 - id: doi:10.21105/joss.03249
   title: 'OpenOmics: A bioinformatics API to integrate multi-omics datasets and interface
     with public databases.'
@@ -50,7 +50,7 @@
   link: https://doi.org/gjxk6m
   image: https://github.com/BioMeCIS-Lab/OpenOmics/raw/master/openomics_web/assets/openomics_logo.png
   tags:
-  - software
+  - software, journal
   extra-links:
   - type: source
     link: https://github.com/BioMeCIS-Lab/OpenOmics
@@ -69,6 +69,7 @@
   link: https://doi.org/gmbmv9
   tags:
   - journal
+  image: https://ieeexplore.ieee.org/ielx7/8857/8169258/7513454/graphical_abstract/tcbb-gagraphic-2591521.jpg
 - id: 10.1088/2057-1976/aa89a6
   title: One-step fabrication of flexible nanotextured PDMS as a substrate for selective
     cell capture
@@ -86,6 +87,8 @@
   date: '2018-01-22'
   link: https://doi.org/gmbm35
   image: https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/2057-1976/4/2/025015/2/bpexaa89a6f4_lr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1627939987&Signature=oSQrFt3D3ltzGocoNoufTARsXb0%3D
+  tags:
+  - journal
 - id: doi:10.1186/s12920-017-0310-1
   title: Stable solution to l 2,1-based robust inductive matrix completion and its
     application in linking long noncoding RNAs to human diseases
@@ -98,3 +101,6 @@
   publisher: BMC Medical Genomics
   date: '2017-12-28'
   link: https://doi.org/gmbm4b
+  tags:
+  - journal
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12920-017-0310-1/MediaObjects/12920_2017_310_Fig1_HTML.gif?as=webp
