@@ -55,3 +55,15 @@
   - type: source
     link: https://github.com/BioMeCIS-Lab/OpenOmics
   description: A tool
+- id: doi:10.1109/TCBB.2016.2591521
+  title: Multi-Block Bipartite Graph for Integrative Genomic Analysis
+  authors:
+    - Mingon Kang
+    - Juyoung Park
+    - Dong-Chul Kim
+    - Ashis K. Biswas
+    - Chunyu Liu
+    - Jean Gao
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2017-11-01'
+  link: https://doi.org/gmbmv9
