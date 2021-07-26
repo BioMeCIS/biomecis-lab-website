@@ -22,6 +22,15 @@
 ##################################################### Journal papers ###################################################
 
 - id: doi:10.1109/TCBB.2016.2591521
+  tags:
+    - journal
+
+# One-step fabrication of flexible nanotextured PDMS as a substrate for selective cell capture
+- id: 10.1088/2057-1976/aa89a6
+  image: https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/2057-1976/4/2/025015/2/bpexaa89a6f4_lr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1627939987&Signature=oSQrFt3D3ltzGocoNoufTARsXb0%3D
+
+# Stable solution to l-2,1-based robust inductive matrix completion and its application in linking long noncoding RNAs to human diseases
+- id: doi:10.1186/s12920-017-0310-1
 
 # Examples:
 

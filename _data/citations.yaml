@@ -58,12 +58,43 @@
 - id: doi:10.1109/TCBB.2016.2591521
   title: Multi-Block Bipartite Graph for Integrative Genomic Analysis
   authors:
-    - Mingon Kang
-    - Juyoung Park
-    - Dong-Chul Kim
-    - Ashis K. Biswas
-    - Chunyu Liu
-    - Jean Gao
+  - Mingon Kang
+  - Juyoung Park
+  - Dong-Chul Kim
+  - Ashis K. Biswas
+  - Chunyu Liu
+  - Jean Gao
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2017-11-01'
   link: https://doi.org/gmbmv9
+  tags:
+  - journal
+- id: 10.1088/2057-1976/aa89a6
+  title: One-step fabrication of flexible nanotextured PDMS as a substrate for selective
+    cell capture
+  authors:
+  - Mohammad R Hasan
+  - Sai Santosh Sasank Peri
+  - Viraj P Sabane
+  - Nuzhat Mansur
+  - Jean X Gao
+  - Kytai T Nguyen
+  - Jon A Weidanz
+  - Samir M Iqbal
+  - Vinay V Abhyankar
+  publisher: Biomedical Physics & Engineering Express
+  date: '2018-01-22'
+  link: https://doi.org/gmbm35
+  image: https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/2057-1976/4/2/025015/2/bpexaa89a6f4_lr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1627939987&Signature=oSQrFt3D3ltzGocoNoufTARsXb0%3D
+- id: doi:10.1186/s12920-017-0310-1
+  title: Stable solution to l 2,1-based robust inductive matrix completion and its
+    application in linking long noncoding RNAs to human diseases
+  authors:
+  - Ashis Kumer Biswas
+  - Dongchul Kim
+  - Mingon Kang
+  - Chris Ding
+  - Jean X. Gao
+  publisher: BMC Medical Genomics
+  date: '2017-12-28'
+  link: https://doi.org/gmbm4b
