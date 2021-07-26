@@ -1,15 +1,19 @@
 
 ############################################## Conference and Preprints ################################################
-
+# Solving All Regression Models For Learning Gaussian Networks Using Givens Rotations
 - id: arxiv:1901.07643
 
+# Layer-stacked Attention for Heterogeneous Network Embedding
 - id: arxiv:2009.08072
 
+# Renormalized Normalized Maximum Likelihood and Three-Part Code Criteria For Learning Gaussian Networks
 - id: arxiv:1810.08749
 
+# MicroRNA dysregulational synergistic network: discovering microRNA dysregulatory modules across subtypes in non-small cell lung cancers
 - id: doi:10.1186/s12859-018-2536-0
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6302368/bin/12859_2018_2536_Fig3_HTML.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-018-2536-0/MediaObjects/12859_2018_2536_Fig1_HTML.png?as=webp
 
+# OpenOmics: A bioinformatics API to integrate multi-omics datasets and interface with public databases.
 - id: doi:10.21105/joss.03249
   image: https://github.com/BioMeCIS-Lab/OpenOmics/raw/master/openomics_web/assets/openomics_logo.png
   date: 2021-5-9
@@ -17,10 +21,11 @@
     - type: source
       link: https://github.com/BioMeCIS-Lab/OpenOmics
   tags:
-    - software
+    - software, journal
 
 ##################################################### Journal papers ###################################################
 
+# Multi-Block Bipartite Graph for Integrative Genomic Analysis
 - id: doi:10.1109/TCBB.2016.2591521
   tags:
     - journal
@@ -28,9 +33,13 @@
 # One-step fabrication of flexible nanotextured PDMS as a substrate for selective cell capture
 - id: 10.1088/2057-1976/aa89a6
   image: https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/2057-1976/4/2/025015/2/bpexaa89a6f4_lr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1627939987&Signature=oSQrFt3D3ltzGocoNoufTARsXb0%3D
+  tags:
+    - journal
 
 # Stable solution to l-2,1-based robust inductive matrix completion and its application in linking long noncoding RNAs to human diseases
 - id: doi:10.1186/s12920-017-0310-1
+  tags:
+    - journal
 
 # Examples:
 
