@@ -1,3 +1,6 @@
+
+############################################## Conference and Preprints ################################################
+
 - id: arxiv:1901.07643
 
 - id: arxiv:2009.08072
@@ -15,6 +18,12 @@
       link: https://github.com/BioMeCIS-Lab/OpenOmics
   tags:
     - software
+
+##################################################### Journal papers ###################################################
+
+
+
+# Examples:
 
 #- id: doi:10.1016/j.csbj.2020.05.017
 #  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
