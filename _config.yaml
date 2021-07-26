@@ -10,12 +10,12 @@ baseurl: /
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: biomecis.lab@gmail.com
+  google-scholar: Jean Gao
+  github: BioMeCIS-Lab
+#  twitter: YourLabHandle
+#  instagram: YourLabHandle
+#  youtube: YourLabChannel
 
 # automatic citations
 auto-cite:
