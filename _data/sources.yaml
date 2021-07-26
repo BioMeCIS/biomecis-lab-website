@@ -1,39 +1,51 @@
+- id: arxiv:1901.07643
+
+- id: arxiv:2009.08072
+
+- id: arxiv:1810.08749
+
+- id: doi:10.1186/s12859-018-2536-0
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6302368/bin/12859_2018_2536_Fig3_HTML.gif
+
 - id: doi:10.21105/joss.03249
   image: https://github.com/BioMeCIS-Lab/OpenOmics/raw/master/openomics_web/assets/openomics_logo.png
   date: 2021-5-9
+  extra-links:
+    - type: source
+      link: https://github.com/BioMeCIS-Lab/OpenOmics
   tags:
     - software
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-    - knowledge graphs
-
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+#- id: doi:10.1016/j.csbj.2020.05.017
+#  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+#  date: 2020-6-2
+#  extra-links:
+#    - type: manubot
+#      link: https://greenelab.github.io/knowledge-graph-review/
+#  tags:
+#    - knowledge graphs
+#
+#- id: doi:10.1371/journal.pcbi.1007128
+#  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#  repo: greenelab/meta-review
+#  extra-links:
+#    - type: manubot
+#      link: https://greenelab.github.io/meta-review/
+#    - type: source
+#      link: https://github.com/greenelab/meta-review
+#    - type: website
+#      link: http://manubot.org/
+#
+#- id: doi:10.7554/eLife.32822
+#  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+#  extra-links:
+#    - type: preprint
+#      link: https://doi.org/10.7287/peerj.preprints.3100v1
+#    - type: manubot
+#      link: https://greenelab.github.io/scihub-manuscript/
+#    - type: source
+#      link: https://github.com/greenelab/scihub-manuscript
+#      text: Manuscript source
+#    - type: source
+#      link: https://github.com/greenelab/scihub
+#      text: Analyses source
