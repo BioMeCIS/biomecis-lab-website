@@ -1,6 +1,6 @@
 - name: ICellDAS
   group: featured
-  image: images/photo.jpg
+  image: http://biolab.uta.edu:8080/images/1.jpg
   link: http://biolab.uta.edu:8080/
   description: Intercellular Cell Dynamics Analysis System (Web Interface).
   repo: greenelab/lab-website-template
