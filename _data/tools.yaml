@@ -2,33 +2,33 @@
   group: featured
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10818/34114/1624981/1624981-fig-3-source-small.gif
   link: http://biolab.uta.edu:8080/
-  description: Intercellular Cell Dynamics Analysis System (Web Interface).
+  description: "Intercellular Cell Dynamics Analysis System (Web Interface)."
 #  repo: greenelab/lab-website-template
 
 - name: Shape Classification
   group: featured
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/83/4337753/4337770/4337770-fig-7-source-large.gif
   link: shape_data/shape_data.htm
-  description: Data used in Hidden Markov Model based Weighted Likelihood Discriminant for 2D Shape Classification.
+  description: "Data used in Hidden Markov Model based Weighted Likelihood Discriminant for 2D Shape Classification."
 #  repo: greenelab/lab-website-template
 
 - name: MSQ
   group: more
   image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jprobs/2008/jprobs.2008.7.issue-2/pr700630x/staging/images/medium/pr-2007-00630x_0008.gif
   link: biomarker/msq.htm
-  description: Mass Spectrometry based Targeted Quantitative Proteomics.
+  description: "Mass Spectrometry based Targeted Quantitative Proteomics."
 #  repo: greenelab/lab-website-template
 
 - name: eQTL Epistasis
   group: more
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/31/5/10.1093_bioinformatics_btu727/2/m_btu727f1p.gif?Expires=1629547957&Signature=O7zNyCciBrbvBWpNLxExckYERZnaK8J8XcM6d-0R6xJrhgo53w2Cca9iq38RYKIGFGjBYpOMlETfX-cNU9pPr92cpnH~1igHn7jhaA3gplbNusX3702AP1NX4VOXjrScVmW2AnFvpEX4pE1ZVcLDotcsKRe5QgJ56AY4uQO2wTsZ3GDKR8E6zlqJgpqJQs-XxPAup6A7Wlg5SqjIdliVW8B3Xns75EWX7tYQHYd2AuKG~vs6gBn0s3IFn9k2t3q0fmqWBsECyN4vjhfWX4Q9~6cK1RZIInV96vdqQL3LXVG1RpTt0g6I0QTmBD2yayS9ud3k12w2u3LWaRfg0mqDyg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   link: epistasis/index.html
-  description: eQTL Epistasis:Detecting epistatic effects and inferring hierarchical relationships of genes in biological pathways.
+  description: "eQTL Epistasis: Detecting epistatic effects and inferring hierarchical relationships of genes in biological pathways."
 #  repo: greenelab/lab-website-template
 
 - name: Reg-AMADE
   group: more
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6784147/6784569/6784599/6784599-fig-1-source-large.gif
   link: reg-amade/index.html
-  description: Regularized eQTL detection via sparse canonical correlation analysis:A genetic study of psychiatric disorders.
+  description: "Regularized eQTL detection via sparse canonical correlation analysis: A genetic study of psychiatric disorders."
 #  repo: greenelab/lab-website-template
