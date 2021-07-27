@@ -54,9 +54,9 @@ collections:
 sass:
   sass_dir: css
 
-# Keep these folders in wwwroot/ since they contain pages from the old website
+# Keep these folders in wwwroot/ directory since they contain pages from the old website.
 exclude: [epistasis, biomarker, icelldas, reg-amade, shape_data]
-keep_files: [ epistasis, biomarker, icelldas, reg-amade, shape_data]
+keep_files: [epistasis, biomarker, icelldas, reg-amade, shape_data]
 
 # syntax highlighting
 highlighter: rouge
