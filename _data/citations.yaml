@@ -9,6 +9,8 @@
   publisher: arXiv
   date: '2020-12-29'
   link: https://arxiv.org/abs/1901.07643
+  tags:
+  - preprint
 - id: arxiv:2009.08072
   title: Layer-stacked Attention for Heterogeneous Network Embedding
   authors:
@@ -17,6 +19,8 @@
   publisher: arXiv
   date: '2020-09-18'
   link: https://arxiv.org/abs/2009.08072
+  tags:
+  - preprint
 - id: arxiv:1810.08749
   title: Renormalized Normalized Maximum Likelihood and Three-Part Code Criteria For
     Learning Gaussian Networks
@@ -26,6 +30,8 @@
   publisher: arXiv
   date: '2020-12-29'
   link: https://arxiv.org/abs/1810.08749
+  tags:
+  - preprint
 - id: doi:10.21105/joss.03249
   title: 'OpenOmics: A bioinformatics API to integrate multi-omics datasets and interface
     with public databases.'
@@ -37,10 +43,12 @@
   link: https://doi.org/gjxk6m
   image: https://github.com/BioMeCIS-Lab/OpenOmics/raw/master/openomics_web/assets/openomics_logo.png
   tags:
-  - software, journal
+  - software
   extra-links:
   - type: source
     link: https://github.com/BioMeCIS-Lab/OpenOmics
+  - type: package
+    link: https://pypi.org/project/openomics/0.8.8/
   description: A tool
 - id: doi:10.1186/s12859-018-2536-0
   title: 'MicroRNA dysregulational synergistic network: discovering microRNA dysregulatory

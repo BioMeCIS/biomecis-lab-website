@@ -2,12 +2,18 @@
 ############################################## Conference and Preprints ################################################
 # Solving All Regression Models For Learning Gaussian Networks Using Givens Rotations
 - id: arxiv:1901.07643
+  tags:
+    - preprint
 
 # Layer-stacked Attention for Heterogeneous Network Embedding
 - id: arxiv:2009.08072
+  tags:
+    - preprint
 
 # Renormalized Normalized Maximum Likelihood and Three-Part Code Criteria For Learning Gaussian Networks
 - id: arxiv:1810.08749
+  tags:
+    - preprint
 
 # OpenOmics: A bioinformatics API to integrate multi-omics datasets and interface with public databases.
 - id: doi:10.21105/joss.03249
@@ -15,8 +21,10 @@
   extra-links:
     - type: source
       link: https://github.com/BioMeCIS-Lab/OpenOmics
+    - type: package
+      link: https://pypi.org/project/openomics/
   tags:
-    - software, journal
+    - software
 
 ##################################################### Journal papers ###################################################
 

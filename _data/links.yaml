@@ -50,6 +50,12 @@ orcid:
   tooltip: ORCID
   link: https://orcid.org/$LINK
 
+dblp:
+  icon: dblp-logo.svg
+  text: DBLP
+  tooltip: DBLP
+  link: https://dblp.org/pid/$LINK
+
 google-scholar:
   icon: fab fa-google
   text: Google Scholar

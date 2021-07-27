@@ -11,8 +11,8 @@ baseurl: /
 # site social media and other links
 links:
   email: biomecis.lab@gmail.com
-  google-scholar: Jean Gao
-  github: BioMeCIS-Lab
+  dblp: "18/4336.html"
+#  github: BioMeCIS-Lab
 #  twitter: YourLabHandle
 #  instagram: YourLabHandle
 #  youtube: YourLabChannel
