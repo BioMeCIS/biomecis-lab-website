@@ -1,0 +1,13 @@
+- title: Research
+  url: research/
+  sublinks:
+    - title: Publications
+      url: research/
+    - title: Tools
+      url: tools/
+    - title: Projects
+      url: projects/
+- title: Team
+  url: team/
+- title: Contact
+  url: contact/

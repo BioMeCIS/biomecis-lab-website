@@ -52,7 +52,10 @@ collections:
 
 # sass settings
 sass:
-  sass_dir: css
+  load_paths:
+    - css
+  style: compressed
+
 
 # Keep these folders in wwwroot/ directory since they contain pages from the old website.
 exclude: [epistasis, biomarker, icelldas, reg-amade, shape_data]
