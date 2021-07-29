@@ -48,8 +48,22 @@
   - type: source
     link: https://github.com/BioMeCIS-Lab/OpenOmics
   - type: package
-    link: https://pypi.org/project/openomics/0.8.8/
+    link: https://pypi.org/project/openomics/
   description: A tool
+- id: doi:10.1109/BIBM.2016.7822542
+  title: Robust Inductive Matrix Completion strategy to explore associations between
+    lincRNAs and human disease phenotypes
+  authors:
+  - Ashis Kumer Biswas
+  - ' Dong-Chul Kim'
+  - ' Mingon Kang'
+  - Jean X. Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2016-12-01'
+  link: https://doi.org/gmcjdq
+  image: https://d3i71xaburhd42.cloudfront.net/32663097e3ccb5ae374634235d6503f0bc0b4f69/5-Figure1-1.png
+  tags:
+  - conference
 - id: doi:10.1186/s12859-018-2536-0
   title: 'MicroRNA dysregulational synergistic network: discovering microRNA dysregulatory
     modules across subtypes in non-small cell lung cancers'
