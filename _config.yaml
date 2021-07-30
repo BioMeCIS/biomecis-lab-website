@@ -1,9 +1,10 @@
 ### basic settings
 
 # site properties and page defaults
-title: BioMeCIS Lab
+title: BioMeCIS Lab @ UTA
 description: Biomedical Computing and intelligent Systems lab is directed by Dr. Jean X. Gao. We have focused on developing efficient algorithms to solve computational problems in basic medicine and clinics, while making theoretical and fundamental contributions to statistical pattern recognition, machine learning, and computer vision.
 logo: images/logo.svg
+logo-text: BioMeCIS
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /
@@ -12,7 +13,7 @@ baseurl: /
 links:
   email: biomecis.lab@gmail.com
   dblp: "18/4336.html"
-#  github: BioMeCIS-Lab
+  github: BioMeCIS-Lab
 #  twitter: YourLabHandle
 #  instagram: YourLabHandle
 #  youtube: YourLabChannel

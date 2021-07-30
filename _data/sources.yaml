@@ -19,12 +19,18 @@
 - id: doi:10.21105/joss.03249
   image: https://github.com/BioMeCIS-Lab/OpenOmics/raw/master/openomics_web/assets/openomics_logo.png
   extra-links:
-    - type: source
-      link: https://github.com/BioMeCIS-Lab/OpenOmics
     - type: package
       link: https://pypi.org/project/openomics/
+    - type: docs
+      link: https://openomics.readthedocs.io/en/latest/
+    - type: source
+      link: https://github.com/BioMeCIS-Lab/OpenOmics
   tags:
     - software
+
+# Network Representation of Large-Scale Heterogeneous RNA Sequences with Integration of Diverse Multi-omics, Interactions, and Annotations Data
+- id: doi:10.1142/9789811215636_0044
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2019/11698/11698/20191204-01/11698.cover.jpg
 
 # Robust Inductive Matrix Completion strategy to explore associations between lincRNAs and human disease phenotypes
 - id: doi:10.1109/BIBM.2016.7822542

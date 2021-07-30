@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Welcome to BioMeCIS Lab
+# Welcome to Biomedical Computing and Intelligent Systems lab
 
 [This is the BioMeCIS Lab](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website
 template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and
@@ -32,9 +32,9 @@ style="button"
 
 # Our Lab
 
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% capture text %} We have focused on developing efficient algorithms to solve computational problems in basic medicine
+and clinics, while making theoretical and fundamental contributions to statistical pattern recognition, machine
+learning, and computer vision.
 
 [See what we've published &nbsp;→](research)
 {:.center}
