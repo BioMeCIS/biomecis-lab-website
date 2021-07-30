@@ -56,12 +56,14 @@
   title: Network Representation of Large-Scale Heterogeneous RNA Sequences with Integration
     of Diverse Multi-omics, Interactions, and Annotations Data
   authors:
-  - Nhat Tran
-  - Jean Gao
-  publisher: World Scientific Pub Co Pte Lt
+    - Nhat Tran
+    - Jean Gao
+  publisher: Pacific Symposium on Biocomputing
   date: '2019-12-01'
   link: https://doi.org/gmckn7
   image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2019/11698/11698/20191204-01/11698.cover.jpg
+  tags:
+    - conference
 - id: doi:10.1109/BIBM.2016.7822542
   title: Robust Inductive Matrix Completion strategy to explore associations between
     lincRNAs and human disease phenotypes

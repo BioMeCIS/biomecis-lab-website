@@ -23,7 +23,8 @@ auto-cite:
   plugins:
     - name: sources
       input:
-        - ../_data/sources.yaml
+        - ../research/publications-conference.yaml
+        - ../research/publications-journal.yaml
   output: ../_data/citations.yaml
 
 ### advanced settings

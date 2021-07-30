@@ -1,0 +1,80 @@
+
+############################################## Conference and Preprints ################################################
+# Solving All Regression Models For Learning Gaussian Networks Using Givens Rotations
+- id: arxiv:1901.07643
+  tags:
+    - preprint
+
+# Layer-stacked Attention for Heterogeneous Network Embedding
+- id: arxiv:2009.08072
+  tags:
+    - preprint
+
+# Renormalized Normalized Maximum Likelihood and Three-Part Code Criteria For Learning Gaussian Networks
+- id: arxiv:1810.08749
+  tags:
+    - preprint
+
+# OpenOmics: A bioinformatics API to integrate multi-omics datasets and interface with public databases.
+- id: doi:10.21105/joss.03249
+  image: https://github.com/BioMeCIS-Lab/OpenOmics/raw/master/openomics_web/assets/openomics_logo.png
+  extra-links:
+    - type: package
+      link: https://pypi.org/project/openomics/
+    - type: docs
+      link: https://openomics.readthedocs.io/en/latest/
+    - type: source
+      link: https://github.com/BioMeCIS-Lab/OpenOmics
+  tags:
+    - software
+
+# Network Representation of Large-Scale Heterogeneous RNA Sequences with Integration of Diverse Multi-omics, Interactions, and Annotations Data
+- id: doi:10.1142/9789811215636_0044
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2019/11698/11698/20191204-01/11698.cover.jpg
+  publisher: Pacific Symposium on Biocomputing
+  tags:
+    - conference
+
+# Robust Inductive Matrix Completion strategy to explore associations between lincRNAs and human disease phenotypes
+- id: doi:10.1109/BIBM.2016.7822542
+  image: https://d3i71xaburhd42.cloudfront.net/32663097e3ccb5ae374634235d6503f0bc0b4f69/5-Figure1-1.png
+  tags:
+   - conference
+
+
+
+# Examples:
+
+#- id: doi:10.1016/j.csbj.2020.05.017
+#  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+#  date: 2020-6-2
+#  extra-links:
+#    - type: manubot
+#      link: https://greenelab.github.io/knowledge-graph-review/
+#  tags:
+#    - knowledge graphs
+#
+#- id: doi:10.1371/journal.pcbi.1007128
+#  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#  repo: greenelab/meta-review
+#  extra-links:
+#    - type: manubot
+#      link: https://greenelab.github.io/meta-review/
+#    - type: source
+#      link: https://github.com/greenelab/meta-review
+#    - type: website
+#      link: http://manubot.org/
+#
+#- id: doi:10.7554/eLife.32822
+#  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+#  extra-links:
+#    - type: preprint
+#      link: https://doi.org/10.7287/peerj.preprints.3100v1
+#    - type: manubot
+#      link: https://greenelab.github.io/scihub-manuscript/
+#    - type: source
+#      link: https://github.com/greenelab/scihub-manuscript
+#      text: Manuscript source
+#    - type: source
+#      link: https://github.com/greenelab/scihub
+#      text: Analyses source
