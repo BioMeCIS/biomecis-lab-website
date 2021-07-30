@@ -5,10 +5,10 @@ on:
     branches:
       - main
     paths:
-      - "_data/publications-conference.yaml"
+      - "_data/publication-conf.yaml"
   pull_request:
     paths:
-      - "_data/publications-conference.yaml"
+      - "_data/publication-conf.yaml"
 
 jobs:
   update_research:

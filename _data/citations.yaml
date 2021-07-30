@@ -52,18 +52,20 @@
   - type: source
     link: https://github.com/BioMeCIS-Lab/OpenOmics
   description: A tool
+  orcid: 0000-0002-2575-9633
+  page: nhat-tran
 - id: doi:10.1142/9789811215636_0044
   title: Network Representation of Large-Scale Heterogeneous RNA Sequences with Integration
     of Diverse Multi-omics, Interactions, and Annotations Data
   authors:
-    - Nhat Tran
-    - Jean Gao
+  - Nhat Tran
+  - Jean Gao
   publisher: Pacific Symposium on Biocomputing
   date: '2019-12-01'
   link: https://doi.org/gmckn7
   image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2019/11698/11698/20191204-01/11698.cover.jpg
   tags:
-    - conference
+  - conference
 - id: doi:10.1109/BIBM.2016.7822542
   title: Robust Inductive Matrix Completion strategy to explore associations between
     lincRNAs and human disease phenotypes
@@ -93,6 +95,8 @@
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-018-2536-0/MediaObjects/12859_2018_2536_Fig1_HTML.png?as=webp
   tags:
   - journal
+  orcid: 0000-0002-2575-9633
+  page: nhat-tran
 - id: doi:10.1109/TCBB.2016.2591521
   title: Multi-Block Bipartite Graph for Integrative Genomic Analysis
   authors:
