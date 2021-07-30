@@ -31,6 +31,8 @@
 # Network Representation of Large-Scale Heterogeneous RNA Sequences with Integration of Diverse Multi-omics, Interactions, and Annotations Data
 - id: doi:10.1142/9789811215636_0044
   image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2019/11698/11698/20191204-01/11698.cover.jpg
+  tags:
+    - conference
 
 # Robust Inductive Matrix Completion strategy to explore associations between lincRNAs and human disease phenotypes
 - id: doi:10.1109/BIBM.2016.7822542
