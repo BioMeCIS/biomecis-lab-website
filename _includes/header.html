@@ -16,7 +16,7 @@
   {%- assign title = site.title -%}
 {%- endif -%}
 
-<header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
+<header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} >
   <a
     href="{{ '/' | relative_url }}"
     class="logo_row"
