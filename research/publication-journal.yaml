@@ -25,6 +25,24 @@
   tags:
     - journal
 
+# Multi-Block Bipartite Graph for Integrative Genomic Analysis," IEEE/ACM Transactions on Computational Biology and Bioinformatics
+- id: doi:10.1109/TCBB.2016.2591521
+  image: https://ieeexplore.ieee.org/ielx7/8857/8169258/7513454/graphical_abstract/tcbb-gagraphic-2591521.jpg
+  tags:
+    - journal
+
+# Computational modeling of phagocyte transmigration for foreign body responses to subcutaneous biomaterial implants in mice
+- id: doi:https://doi.org/10.1186/s12859-016-0947-3
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-016-0947-3/MediaObjects/12859_2016_947_Fig1_HTML.gif?as=webp
+  tags:
+    - journal
+
+# Inferring causal molecular networks: empirical assessment through a community-based effort
+- id: doi:10.1038/nmeth.3773
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6870996/bin/41592_2016_Article_BFnmeth3773_Fig1_HTML.jpg
+  tags:
+    - journal
+
 # Examples:
 
 #- id: doi:10.1016/j.csbj.2020.05.017

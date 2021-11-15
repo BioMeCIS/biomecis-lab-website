@@ -97,7 +97,8 @@
   - journal
   orcid: 0000-0002-2575-9633
   page: nhat-tran
-- id: doi:10.1109/TCBB.2016.2591521
+- &id001
+  id: doi:10.1109/TCBB.2016.2591521
   title: Multi-Block Bipartite Graph for Integrative Genomic Analysis
   authors:
   - Mingon Kang
@@ -146,3 +147,66 @@
   tags:
   - journal
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12920-017-0310-1/MediaObjects/12920_2017_310_Fig1_HTML.gif?as=webp
+- *id001
+- id: doi:https://doi.org/10.1186/s12859-016-0947-3
+  title: Computational modeling of phagocyte transmigration for foreign body responses
+    to subcutaneous biomaterial implants in mice
+  authors:
+  - Mingon Kang
+  - Liping Tang
+  - Jean Gao
+  publisher: BMC Bioinformatics
+  date: '2016-02-29'
+  link: https://doi.org/gngrrn
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-016-0947-3/MediaObjects/12859_2016_947_Fig1_HTML.gif?as=webp
+  tags:
+  - journal
+- id: doi:10.1038/nmeth.3773
+  title: 'Inferring causal molecular networks: empirical assessment through a community-based
+    effort'
+  authors:
+  - Steven M Hill
+  - Laura M Heiser
+  - Thomas Cokelaer
+  - Michael Unger
+  - Nicole K Nesser
+  - Daniel E Carlin
+  - Yang Zhang
+  - Artem Sokolov
+  - Evan O Paull
+  - Chris K Wong
+  - Kiley Graim
+  - Adrian Bivol
+  - Haizhou Wang
+  - Fan Zhu
+  - Bahman Afsari
+  - Ludmila V Danilova
+  - Alexander V Favorov
+  - Wai Shing Lee
+  - Dane Taylor
+  - Chenyue W Hu
+  - Byron L Long
+  - David P Noren
+  - Alexander J Bisberg
+  - Gordon B Mills
+  - Joe W Gray
+  - Michael Kellen
+  - Thea Norman
+  - Stephen Friend
+  - Amina A Qutub
+  - Elana J Fertig
+  - Yuanfang Guan
+  - Mingzhou Song
+  - Joshua M Stuart
+  - Paul T Spellman
+  - Heinz Koeppl
+  - Gustavo Stolovitzky
+  - Julio Saez-Rodriguez
+  - Sach Mukherjee
+  - ' '
+  publisher: Nature Methods
+  date: '2016-02-22'
+  link: https://doi.org/f3t7t4
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6870996/bin/41592_2016_Article_BFnmeth3773_Fig1_HTML.jpg
+  tags:
+  - journal
