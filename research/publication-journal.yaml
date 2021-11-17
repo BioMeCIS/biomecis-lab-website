@@ -15,19 +15,13 @@
 
 # One-step fabrication of flexible nanotextured PDMS as a substrate for selective cell capture
 - id: 10.1088/2057-1976/aa89a6
-  image: https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/2057-1976/4/2/025015/2/bpexaa89a6f4_lr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1627939987&Signature=oSQrFt3D3ltzGocoNoufTARsXb0%3D
+  image: https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/2057-1976/4/2/025015/2/bpexaa89a6f1_lr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1637789721&Signature=vWxmj9cl%2FS%2FdnDi6armAiXO4MBI%3D
   tags:
     - journal
 
 # Stable solution to l-2,1-based robust inductive matrix completion and its application in linking long noncoding RNAs to human diseases
 - id: doi:10.1186/s12920-017-0310-1
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12920-017-0310-1/MediaObjects/12920_2017_310_Fig1_HTML.gif?as=webp
-  tags:
-    - journal
-
-# Multi-Block Bipartite Graph for Integrative Genomic Analysis," IEEE/ACM Transactions on Computational Biology and Bioinformatics
-- id: doi:10.1109/TCBB.2016.2591521
-  image: https://ieeexplore.ieee.org/ielx7/8857/8169258/7513454/graphical_abstract/tcbb-gagraphic-2591521.jpg
   tags:
     - journal
 

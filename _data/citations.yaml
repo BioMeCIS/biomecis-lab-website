@@ -97,8 +97,7 @@
   - journal
   orcid: 0000-0002-2575-9633
   page: nhat-tran
-- &id001
-  id: doi:10.1109/TCBB.2016.2591521
+- id: doi:10.1109/TCBB.2016.2591521
   title: Multi-Block Bipartite Graph for Integrative Genomic Analysis
   authors:
   - Mingon Kang
@@ -129,7 +128,7 @@
   publisher: Biomedical Physics & Engineering Express
   date: '2018-01-22'
   link: https://doi.org/gmbm35
-  image: https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/2057-1976/4/2/025015/2/bpexaa89a6f4_lr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1627939987&Signature=oSQrFt3D3ltzGocoNoufTARsXb0%3D
+  image: https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/2057-1976/4/2/025015/2/bpexaa89a6f1_lr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1637789721&Signature=vWxmj9cl%2FS%2FdnDi6armAiXO4MBI%3D
   tags:
   - journal
 - id: doi:10.1186/s12920-017-0310-1
@@ -147,7 +146,6 @@
   tags:
   - journal
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12920-017-0310-1/MediaObjects/12920_2017_310_Fig1_HTML.gif?as=webp
-- *id001
 - id: doi:https://doi.org/10.1186/s12859-016-0947-3
   title: Computational modeling of phagocyte transmigration for foreign body responses
     to subcutaneous biomaterial implants in mice
