@@ -42,6 +42,228 @@
   tags:
    - conference
 
+# Integrative approach for inference of gene regulatory networks using lasso-based random featuring and application to Psychiatric disorders
+- id: doi:10.1109/BIBM.2015.7359672
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7350074/7359638/7359672/7359672-fig-1-source-small.gif
+  tags:
+   - conference
+
+#  An Integrative Genomic Study for Multimodal Genomic Data Using Multi-Block Bipartite Graph
+- id: doi:10.1109/BIBM.2015.7359744
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7350074/7359638/7359744/7359744-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Integration of DNA Methylation, Copy Number Variation, and Gene Expression for Gene Regulatory Network Inference and Application to Psychiatric Disorders
+- id: doi:10.1109/BIBE.2014.71
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7031542/7033542/7033587/7033587-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Multi-Block and Multi-Task Learning for Integrative Genomic Study
+- id: doi:10.1109/BIBE.2014.21
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7031542/7033542/7033557/7033557-fig-1-source-small.gif
+  tags:
+   - conference
+
+# NMF-based LncRNA-Disease Association Inference and Bi-clustering
+- id: doi:10.1109/BIBE.2014.54
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7031542/7033542/7033565/7033565-fig-1-source-small.gif
+  tags:
+   - conference
+
+# eQTL Epistasis: Detecting Complex Interaction Effects between Multiple Loci from eQTL Data
+- id: doi:10.1109/BIBM.2013.6732454
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6716150/6732442/6732454/6732454-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Inference of gene regulatory networks by integrating gene expressions and genetic perturbations
+- id: doi:10.1109/BIBM.2013.6732484
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6716150/6732442/6732484/6732484-fig-1-source-small.gif
+  tags:
+   - conference
+
+# QLZCClust: Quaternary lempel-Ziv complexity based clustering of the RNA-seq read block segments
+- id: doi:10.1109/BIBE.2013.6701596
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6689795/6701519/6701596/6701596-fig-1-source-small.gif
+  tags:
+   - conference
+
+# eQTL Mapping Study via Regularized Sparse Canonical Correlation Analysis
+- id: doi:10.1109/ICMLA.2013.29
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6784147/6784569/6784599/6784599-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Probabilistic Partial Least Square Regression: A Robust Model for Quantitative Analysis of Raman Spectroscopy Data
+- id: doi:10.1109/BIBM.2011.94
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6120121/6120396/6120496/6120496-fig-1-source-small.gif
+  tags:
+   - conference
+
+# A Framework for Personalized Medicine with Reverse Phase Protein Array and Drug Sensitivity and Drug Sensitivity
+- id: doi:10.1109/BIBM.2011.121
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6120121/6120396/6120480/6120480-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Subcellular Particles Tracking in Time-lapse Confocal Microscopy Images
+- id: doi:10.1109/IEMBS.2011.6091476
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6067544/6089866/6091476/6091476-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Discovery of Lung Cancer Pathways using Reverse Phase Protein Microarray and Prior-Knowledge based Bayesian Networks
+- id: doi:10.1109/IEMBS.2011.6091414
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6067544/6089866/6091414/6091414-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Nonlinear RANSAC Optimization for Parameter Estimation with Applications to Phagocyte Transmigration
+- id: doi:10.1109/ICMLA.2011.104
+  image: https://www.researchgate.net/profile/Liping-Tang/publication/233890094/figure/fig1/AS:300140779851776@1448570546191/figure-fig1.png
+  tags:
+   - conference
+
+# Computational modeling of phagocyte transmigration during biomaterial-mediated foreign body responses
+- id: doi:10.1109/BIBM.2010.5706638
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3221391/bin/nihms-336828-f0001.jpg
+  tags:
+   - conference
+
+# Eigenspectra, A Robust Regression Method For Multiplexed Raman Spectra Analysis
+- id: doi:10.1109/BIBM.2010.5706622
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5695142/5706520/5706622/5706622-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Learning Proteomic Network Structure by a New Hill Climbing Algorithm
+- id: doi:10.1109/BIBE.2010.38
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5521352/5521652/5521692/5521692-fig-2-source-small.gif
+  tags:
+   - conference
+
+# Motion detection for subcellular structure trafficking
+- id: doi:10.1109/IEMBS.2009.5332850
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5307844/5332379/5332850/5332850-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Branch-and-bound hypothesis selection for two-view multiple structure and motion segmentation
+- id: doi:10.1109/CVPR.2008.4587469
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4558014/4587335/4587469/4587469-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Tracking interacting subcellular structures by sequential Monte Carlo method
+- id: doi:10.1109/IEMBS.2007.4353259
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4352184/4352185/4353259/4353259-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Phagocyte transmigration modeling using system dynamic controls
+- id: doi:10.1109/BIBE.2007.4375604
+  image: https://d3i71xaburhd42.cloudfront.net/1aec322ed898505592528d2099bdd04d16968bfc/2-Figure1-1.png
+  tags:
+   - conference
+
+# Biomarker selection for predicting Alzheimer disease using high-resolution MALDI-TOF data
+- id: doi:10.1109/BIBE.2007.4375602
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4375520/4375521/4375602/4375602-fig-2-source-small.gif
+  tags:
+   - conference
+
+# Three dimensional analysis of the vascular perfusion for anterolateral thigh perforator flaps
+- id: doi:https://doi.org/10.1117/12.710366
+  image: https://spie.org/images/graphics/GenericCovers/volume.png
+  tags:
+   - conference
+
+# Unsupervised gene selection for high dimensional data
+- id: doi:10.1109/BIBE.2006.253339
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4019626/4019627/4019664/4019664-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Markov chain Monte Carlo data association for protein clusters tracking
+- id: doi:10.1109/ICPR.2006.781
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/11159/35817/1699064/1699064-fig-1-source-small.gif
+  tags:
+   - conference
+
+# A New Hybrid Approach for Unsupervised Gene Selection
+- id: doi:10.1109/CIBCB.2006.330996
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4133138/4079469/4133178/4133178-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Occlusion resistant shape classifier based on warped optimal path matching
+- id: doi:10.1109/ICPR.2006.889
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/11159/35818/1699148/1699148-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Feature selection, matching, and evaluation for subcellular structure tracking
+- id: doi:10.1109/IEMBS.2006.259936
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4028925/4461641/4462431/4462431-fig-1-source-small.gif
+  tags:
+   - conference
+
+# A new maximum-relevance criterion for significant gene selection
+- id: doi:https://doi.org/10.1007/11818564_9
+  image: https://media.springernature.com/w306/springer-static/cover/book/978-3-540-37447-3.jpg
+  tags:
+   - conference
+
+# A particle filter framework using optimal importance function for protein molecules tracking
+- id: doi:10.1109/ICIP.2005.1529962
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10242/32660/1529962/1529962-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Peptide identification by tandem mass spectra: an efficient parallel searching
+- id: doi:10.1109/BIBE.2005.45
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10365/32968/1544462/1544462-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Shape classification based on generalized Gaussian descent method with hidden Markov model descriptor
+- id: doi:10.1109/ICCV.2005.220
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10347/32910/1541295/1541295-table-1-source-small.gif
+  tags:
+   - conference
+
+# Multicategory classification using extended SVM-RFE and Markov blanket on SELD I-TOF mass Spectrometry data
+- id: doi:10.1109/CIBCB.2005.1594938
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10629/33563/1594938/1594938-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Automatic video object shape extraction and its classification with camera in motion
+- id: doi:10.1109/ICIP.2005.1530422
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10242/32662/1530422/1530422-fig-1-source-small.gif
+  tags:
+   - conference
+
+# Shape-based 3D vascular tree extraction for perforator flaps
+- id: doi:10.1117/12.596390
+  image: https://spie.org/images/graphics/GenericCovers/paper.png
+  tags:
+   - conference
+
+# Emerging pattern based subspace clustering of microarray gene expression using mixture models
+- id: doi:https://doi.org/10.1142/9789812702098_0002
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/smbm/2005/5746/5746/production/5746.cover.jpg
+  tags:
+   - conference
+
+# A two-way searching algorithm for De Novo peptide sequencing via tandem mass spectrometry
+- id: doi:10.1142/9789812702098_0037
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/smbm/2005/5746/5746/production/5746.cover.jpg
+  tags:
+   - conference
+
 
 
 # Examples:

@@ -80,6 +80,508 @@
   image: https://d3i71xaburhd42.cloudfront.net/32663097e3ccb5ae374634235d6503f0bc0b4f69/5-Figure1-1.png
   tags:
   - conference
+- id: doi:10.1109/BIBM.2015.7359672
+  title: Integrative approach for inference of gene regulatory networks using lasso-based
+    random featuring and application to Psychiatric disorders
+  authors:
+  - ' Dong-Chul Kim'
+  - ' Mingon Kang'
+  - Ashis Biswas
+  - ' Chunyu Liu'
+  - ' Jean Gao'
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2015-11-01'
+  link: https://doi.org/gnhqwz
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7350074/7359638/7359672/7359672-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/BIBM.2015.7359744
+  title: An integrative genomic study for multimodal genomic data using multi-block
+    bipartite graph
+  authors:
+  - Mingon Kang
+  - Juyoung Park
+  - Dong-Chul Kim
+  - Ashis K. Biswas
+  - Chunyu Liu
+  - Jean Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2015-11-01'
+  link: https://doi.org/gnhqxm
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7350074/7359638/7359744/7359744-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/BIBE.2014.71
+  title: Integration of DNA Methylation, Copy Number Variation, and Gene Expression
+    for Gene Regulatory Network Inference and Application to Psychiatric Disorders
+  authors:
+  - Dong-Chul Kim
+  - Mingon Kang
+  - Baoju Zhang
+  - Xiaoyong Wu
+  - Chunyu Liu
+  - Jean Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2014-11-01'
+  link: https://doi.org/gnhqxn
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7031542/7033542/7033587/7033587-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/BIBE.2014.21
+  title: Multi-block and Multi-task Learning for Integrative Genomic Study
+  authors:
+  - Mingon Kang
+  - Dong-Chul Kim
+  - Chunyu Liu
+  - Baoju Zhang
+  - Xiaoyong Wu
+  - Jean Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2014-11-01'
+  link: https://doi.org/gnhqx6
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7031542/7033542/7033557/7033557-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/BIBE.2014.54
+  title: NMF-Based LncRNA-Disease Association Inference and Bi-Clustering
+  authors:
+  - Ashis Kumer Biswas
+  - Jean X. Gao
+  - Baoju Zhang
+  - Xiaoyong Wu
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2014-11-01'
+  link: https://doi.org/gnhqx7
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7031542/7033542/7033565/7033565-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/BIBM.2013.6732454
+  title: 'eQTL epistasis: Detecting complex interaction effects between multiple loci
+    from eQTL data'
+  authors:
+  - Mingon Kang
+  - Shuo Li
+  - Chunyu Liu
+  - Jean Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2013-12-01'
+  link: https://doi.org/gnhqx9
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6716150/6732442/6732454/6732454-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/BIBM.2013.6732484
+  title: Inference of gene regulatory networks by integrating gene expressions and
+    genetic perturbations
+  authors:
+  - Dong-Chul Kim
+  - Chunyu Liu
+  - Xiaoyong Wu
+  - Baoju Zhang
+  - Jean Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2013-12-01'
+  link: https://doi.org/gnhqzc
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6716150/6732442/6732484/6732484-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/BIBE.2013.6701596
+  title: 'QLZCClust: Quaternary lempel-Ziv complexity based clustering of the RNA-seq
+    read block segments'
+  authors:
+  - Ashis Kumer Biswas
+  - Baoju Zhang
+  - Xiaoyong Wu
+  - Jean X. Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2013-11-01'
+  link: https://doi.org/gnhqzd
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6689795/6701519/6701596/6701596-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/ICMLA.2013.29
+  title: eQTL Mapping Study via Regularized Sparse Canonical Correlation Analysis
+  authors:
+  - Mingon Kang
+  - Shuo Li
+  - Dongchul Kim
+  - Chunyu Liu
+  - Baoju Zhang
+  - Xiaoyong Wu
+  - Jean Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2013-12-01'
+  link: https://doi.org/gnhqzf
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6784147/6784569/6784599/6784599-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/BIBM.2011.94
+  title: 'Probabilistic Partial Least Square Regression: A Robust Model for Quantitative
+    Analysis of Raman Spectroscopy Data'
+  authors:
+  - Shuo Li
+  - Jean Gao
+  - James O. Nyagilo
+  - Digant P. Dave
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2011-11-01'
+  link: https://doi.org/fzc826
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6120121/6120396/6120496/6120496-fig-1-source-small.gif
+  tags:
+  - conference
+- &id001
+  id: doi:10.1109/BIBM.2011.121
+  title: A Framework for Personalized Medicine with Reverse Phase Protein Array and
+    Drug Sensitivity
+  authors:
+  - Dong-Chul Kim
+  - Jean Gao
+  - Xiaoyu Wang
+  - Chin-Rang Yang
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2011-11-01'
+  link: https://doi.org/fzqssk
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6120121/6120396/6120480/6120480-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/IEMBS.2011.6091476
+  title: Subcellular particles tracking in time-lapse confocal microscopy images
+  authors:
+  - ' Shuo Li'
+  - K. Luby-Phelps
+  - ' Baoju Zhang'
+  - ' Xiaorong Wu'
+  - J. Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2011-08-01'
+  link: https://doi.org/gnhqzg
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6067544/6089866/6091476/6091476-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/IEMBS.2011.6091414
+  title: Discovery of lung cancer pathways using Reverse Phase Protein Microarray
+    and prior-knowledge based Bayesian networks
+  authors:
+  - ' Dong-Chul Kim'
+  - ' Chin-Rang Yang'
+  - ' Xiaoyu Wang'
+  - ' Baoju Zhang'
+  - ' Xiaorong Wu'
+  - ' Jean Gao'
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2011-08-01'
+  link: https://doi.org/bw2fzc
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6067544/6089866/6091414/6091414-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/ICMLA.2011.104
+  title: Nonlinear RANSAC Optimization for Parameter Estimation with Applications
+    to Phagocyte Transmigration
+  authors:
+  - Mingon Kang
+  - Jean Gao
+  - Liping Tang
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2011-12-01'
+  link: https://doi.org/gnhqzh
+  image: https://www.researchgate.net/profile/Liping-Tang/publication/233890094/figure/fig1/AS:300140779851776@1448570546191/figure-fig1.png
+  tags:
+  - conference
+- id: doi:10.1109/BIBM.2010.5706638
+  title: Computational modeling of phagocyte transmigration during biomaterial-mediated
+    foreign body responses
+  authors:
+  - Mingon Kang
+  - Jean X. Gao
+  - Liping Tang
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2010-12-01'
+  link: https://doi.org/ccjttd
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3221391/bin/nihms-336828-f0001.jpg
+  tags:
+  - conference
+- id: doi:10.1109/BIBM.2010.5706622
+  title: Eigenspectra, a robust regression method for multiplexed Raman spectra analysis
+  authors:
+  - Shuo Li
+  - Jean Gao
+  - James O Nyagilo
+  - Digant P Dave
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2010-12-01'
+  link: https://doi.org/dck4fr
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5695142/5706520/5706622/5706622-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/BIBE.2010.38
+  title: Learning Proteomic Network Structure by a New Hill Climbing Algorithm
+  authors:
+  - Dong-Chul Kim
+  - Jean Gao
+  - Chin-Rang Yang
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2010-01-01'
+  link: https://doi.org/dbk328
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5521352/5521652/5521692/5521692-fig-2-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/IEMBS.2009.5332850
+  title: Motion detection for subcellular structure trafficking
+  authors:
+  - H. Iwaki
+  - A. Kosaka
+  - ' Shuo Li'
+  - J. Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2009-09-01'
+  link: https://doi.org/cr4xgg
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5307844/5332379/5332850/5332850-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/CVPR.2008.4587469
+  title: Branch-and-bound hypothesis selection for two-view multiple structure and
+    motion segmentation
+  authors:
+  - Ninad Thakoor
+  - Jean Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2008-06-01'
+  link: https://doi.org/b7km9c
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4558014/4587335/4587469/4587469-fig-1-source-small.gif
+  tags:
+  - conference
+- &id002
+  id: doi:10.1109/IEMBS.2007.4353259
+  title: Tracking Interacting Subcellular Structures By Sequential Monte Carlo Method
+  authors:
+  - Quan Wen
+  - Jean Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2007-08-01'
+  link: https://doi.org/bhvxjc
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4352184/4352185/4353259/4353259-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/BIBE.2007.4375604
+  title: Phagocyte Transmigration Modeling Using System Dynamic Controls
+  authors:
+  - Jiaxing Xue
+  - Jean Gao
+  - Liping Tang
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2007-10-01'
+  link: https://doi.org/drwfhh
+  image: https://d3i71xaburhd42.cloudfront.net/1aec322ed898505592528d2099bdd04d16968bfc/2-Figure1-1.png
+  tags:
+  - conference
+- id: doi:10.1109/BIBE.2007.4375602
+  title: Biomarker Selection for Predicting Alzheimer Disease Using High-Resolution
+    MALDI-TOF Data
+  authors:
+  - Jung Hun Oh
+  - Young Bun Kim
+  - Prem Gurnani
+  - Kevin P. Rosenblatt
+  - Jean Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2007-10-01'
+  link: https://doi.org/fm994k
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4375520/4375521/4375602/4375602-fig-2-source-small.gif
+  tags:
+  - conference
+- id: doi:https://doi.org/10.1117/12.710366
+  title: Three dimensional analysis of the vascular perfusion for anterolateral thigh
+    perforator flaps
+  authors:
+  - Jiaxing Xue
+  - Jean Gao
+  - Gary Arbique
+  - Michel Saint-Cyr
+  - Dan Hatef
+  - Spencer Brown
+  publisher: SPIE-Intl Soc Optical Eng
+  date: '2007-03-08'
+  link: https://doi.org/frfrp7
+  image: https://spie.org/images/graphics/GenericCovers/volume.png
+  tags:
+  - conference
+- id: doi:10.1109/BIBE.2006.253339
+  title: Unsupervised Gene Selection For High Dimensional Data
+  authors:
+  - Young Kim
+  - Jean Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2006-01-01'
+  link: https://doi.org/dhdx68
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4019626/4019627/4019664/4019664-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/ICPR.2006.781
+  title: Markov Chain Monte Carlo Data Association for Merge and Split Detection in
+    Tracking Protein Clusters
+  authors:
+  - ' Quan Wen'
+  - ' Jean Gao'
+  - K. Luby-Phelps
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2006-01-01'
+  link: https://doi.org/bkq8dk
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/11159/35817/1699064/1699064-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/CIBCB.2006.330996
+  title: A New Hybrid Approach for Unsupervised Gene Selection
+  authors:
+  - Young Bun Kim
+  - Jean Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2006-09-01'
+  link: https://doi.org/fmzn2v
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4133138/4079469/4133178/4133178-fig-1-source-small.gif
+  tags:
+  - conference
+- &id003
+  id: doi:10.1109/ICPR.2006.889
+  title: Occlusion Resistant Shape Classifier based onWarped Optimal Path Matching
+  authors:
+  - N. Thakoor
+  - ' Sungyong Jung'
+  - ' Quan Wen'
+  - J. Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2006-01-01'
+  link: https://doi.org/cz3jq4
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/11159/35818/1699148/1699148-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/IEMBS.2006.259936
+  title: Feature Selection, Matching, and Evaluation for Subcellular Structure Tracking
+  authors:
+  - Quan Wen
+  - Jean Gao
+  - Kate Luby-Phelps
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2006-08-01'
+  link: https://doi.org/d75zn9
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4028925/4461641/4462431/4462431-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:https://doi.org/10.1007/11818564_9
+  title: A New Maximum-Relevance Criterion for Significant Gene Selection
+  authors:
+  - Young Bun Kim
+  - Jean Gao
+  - Pawel Michalak
+  publisher: Lecture Notes in Computer Science
+  date: '2006-01-01'
+  link: https://doi.org/fmgqj7
+  image: https://media.springernature.com/w306/springer-static/cover/book/978-3-540-37447-3.jpg
+  tags:
+  - conference
+- id: doi:10.1109/ICIP.2005.1529962
+  title: A particle filter framework using optimal importance function for protein
+    molecules tracking
+  authors:
+  - Q. Wen
+  - J. Gao
+  - A. Kosaka
+  - H. Iwaki
+  - K. Luby-Phelps
+  - D. Mundy
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2005-01-01'
+  link: https://doi.org/d2hpdj
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10242/32660/1529962/1529962-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/BIBE.2005.45
+  title: 'Peptide Identification by Tandem Mass Spectra: An Efficient Parallel Searching'
+  authors:
+  - ' Jung Hun Oh'
+  - J. Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2006-10-11'
+  link: https://doi.org/cqm7p8
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10365/32968/1544462/1544462-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/ICCV.2005.220
+  title: Shape classifier based on generalized probabilistic descent method with hidden
+    Markov descriptor
+  authors:
+  - N. Thakoor
+  - J. Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2005-01-01'
+  link: https://doi.org/ctw6b2
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10347/32910/1541295/1541295-table-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/CIBCB.2005.1594938
+  title: Multicategory Classification using Extended SVM-RFE and Markov Blanket on
+    SELDI-TOF Mass Spectrometry Data
+  authors:
+  - ' Jung Hun Oh'
+  - J. Gao
+  - A. Nandi
+  - P. Gurnani
+  - L. Knowles
+  - J. Schorge
+  - K.P. Rosenblatt
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2005-01-01'
+  link: https://doi.org/dnmxcf
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10629/33563/1594938/1594938-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1109/ICIP.2005.1530422
+  title: Automatic video object shape extraction and its classification with camera
+    in motion
+  authors:
+  - N. Thakoor
+  - J. Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2005-01-01'
+  link: https://doi.org/dcsw5s
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10242/32662/1530422/1530422-fig-1-source-small.gif
+  tags:
+  - conference
+- id: doi:10.1117/12.596390
+  title: Shape-based 3D vascular tree extraction for perforator flaps
+  authors:
+  - Quan Wen
+  - Jean Gao
+  publisher: SPIE-Intl Soc Optical Eng
+  date: '2005-04-29'
+  link: https://doi.org/fhrz4z
+  image: https://spie.org/images/graphics/GenericCovers/paper.png
+  tags:
+  - conference
+- id: doi:https://doi.org/10.1142/9789812702098_0002
+  title: EMERGING PATTERN BASED SUBSPACE CLUSTERING OF MICROARRAY GENE EXPRESSION
+    DATA USING MIXTURE MODELS
+  authors:
+  - YOUNG BUN KIM
+  - JUNG HUN OH
+  - JEAN GAO
+  publisher: World Scientific Pub Co Pte Ltd
+  date: '2005-05-01'
+  link: https://doi.org/bv63fs
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/smbm/2005/5746/5746/production/5746.cover.jpg
+  tags:
+  - conference
+- id: doi:10.1142/9789812702098_0037
+  title: A TWO-WAY SEARCHING ALGORITHM FOR <i>DE NOVO</i> PEPTIDE SEQUENCING VIA TANDEM
+    MASS SPECTROMETRY
+  authors:
+  - JUNG HUN OH
+  - YOUNG BUN KIM
+  - JEAN GAO
+  publisher: World Scientific Pub Co Pte Ltd
+  date: '2005-05-01'
+  link: https://doi.org/dqngbh
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/smbm/2005/5746/5746/production/5746.cover.jpg
+  tags:
+  - conference
 - id: doi:10.1186/s12859-018-2536-0
   title: 'MicroRNA dysregulational synergistic network: discovering microRNA dysregulatory
     modules across subtypes in non-small cell lung cancers'
@@ -326,20 +828,7 @@
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5695142/5706520/5706622/5706622-fig-1-source-small.gif
   tags:
   - journal
-- id: doi:10.1109/BIBM.2011.121
-  title: A Framework for Personalized Medicine with Reverse Phase Protein Array and
-    Drug Sensitivity
-  authors:
-  - Dong-Chul Kim
-  - Jean Gao
-  - Xiaoyu Wang
-  - Chin-Rang Yang
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
-  date: '2011-11-01'
-  link: https://doi.org/fzqssk
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6120121/6120396/6120480/6120480-fig-2-source-small.gif
-  tags:
-  - journal
+- *id001
 - id: doi:10.1109/TCBB.2010.42
   title: Fast Kernel Discriminant Analysis for Classification of Liver Cancer Mass
     Spectra
@@ -443,17 +932,7 @@
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/83/4648460/4637893/4637893-fig-1-source-small.gif
   tags:
   - journal
-- id: doi:10.1109/IEMBS.2007.4353259
-  title: Tracking Interacting Subcellular Structures By Sequential Monte Carlo Method
-  authors:
-  - Quan Wen
-  - Jean Gao
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
-  date: '2007-08-01'
-  link: https://doi.org/bhvxjc
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4413017/4413018/4413088/4413088-fig-1-source-small.gif
-  tags:
-  - journal
+- *id002
 - id: doi:10.1021/pr700630x
   title: Application of Targeted Quantitative Proteomics Analysis in Human Cerebrospinal
     Fluid Using a Liquid Chromatography Matrix-Assisted Laser Desorption/Ionization
@@ -608,19 +1087,7 @@
   image: https://www.researchgate.net/profile/Jung-Hun-Oh/publication/6886351/figure/tbl1/AS:601612670234627@1520447046079/Serum-sample-information.png
   tags:
   - journal
-- id: doi:10.1109/ICPR.2006.889
-  title: Occlusion Resistant Shape Classifier based onWarped Optimal Path Matching
-  authors:
-  - N. Thakoor
-  - ' Sungyong Jung'
-  - ' Quan Wen'
-  - J. Gao
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
-  date: '2006-01-01'
-  link: https://doi.org/cz3jq4
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/11159/35818/1699148/1699148-fig-1-source-small.gif
-  tags:
-  - journal
+- *id003
 - id: doi:10.1016/j.acra.2005.05.005
   title: A Deformable Model for Automatic CT Liver Extraction1
   authors:
