@@ -210,3 +210,443 @@
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6870996/bin/41592_2016_Article_BFnmeth3773_Fig1_HTML.jpg
   tags:
   - journal
+- id: doi:10.1007/s13721-015-0081-6
+  title: Inferring disease associations of the long non-coding RNAs through non-negative
+    matrix factorization
+  authors:
+  - Ashis Kumer Biswas
+  - Mingon Kang
+  - Dong-Chul Kim
+  - Chris H. Q. Ding
+  - Baoju Zhang
+  - Xiaoyong Wu
+  - Jean X. Gao
+  publisher: Network Modeling Analysis in Health Informatics and Bioinformatics
+  date: '2015-06-11'
+  link: https://doi.org/gnhqrp
+  image: https://www.infona.pl/thumbnail/bwmeta1.element.springer-000000013721
+  tags:
+  - journal
+- id: doi:10.1504/ijdmb.2015.066768
+  title: Probabilistic partial least squares regression for quantitative analysis
+    of Raman spectra
+  authors:
+  - Shuo Li
+  - James O. Nyagilo
+  - Digant P. Dave
+  - Wei Wang
+  - Baoju Zhang
+  - Jean Gao
+  publisher: International Journal of Data Mining and Bioinformatics
+  date: '2015-01-01'
+  link: https://doi.org/gnhqrq
+  image: https://d3i71xaburhd42.cloudfront.net/cf86e4930bb39ee1798f0792b70cbe9418e7ab6a/250px/7-Figure1-1.png
+  tags:
+  - journal
+- id: doi:10.1093/bioinformatics/btu727
+  title: 'eQTL epistasis: detecting epistatic effects and inferring hierarchical relationships
+    of genes in biological pathways'
+  authors:
+  - Mingon Kang
+  - Chunling Zhang
+  - Hyung-Wook Chun
+  - Chris Ding
+  - Chunyu Liu
+  - Jean Gao
+  publisher: Bioinformatics
+  date: '2015-03-01'
+  link: https://doi.org/f67rh6
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/31/5/10.1093_bioinformatics_btu727/2/m_btu727f2p.gif?Expires=1640205634&Signature=dK2Yq8NqYqCiHl0aTfMG8cbJ3~-zsh0YxWeaGDRqpRpcNtlmx7DvgOAAiJKFufrI56EavqS0xTXtrLrZS3394IEVqdHIFYsG-HJ92LHarnPwDQB6VDZNOSOgqURYVZyI4rZ3iutnkfu33Fgo7IIFtzyTfVdysTY0LvZcFS-q3AOHRuMI3aUQXncP3Q9A77Zdf7kK5LD8jVEM2cW7UkGnXelNi99fr-jiyml2f8lZEaFOMT-IhhOwX7AgpJ9WgnvfLALBY4sv6KoSekQ2kBQF~qLXkTUNhXj6GLRt1XKSB2iLrNX1sJaqSSIz5WVlHJdFmnmIeOpJSP8vVe1JXIIr~w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - journal
+- id: doi:10.1155/2014/629697
+  title: Inference of SNP-Gene Regulatory Networks by Integrating Gene Expressions
+    and Genetic Perturbations
+  authors:
+  - Dong-Chul Kim
+  - Jiao Wang
+  - Chunyu Liu
+  - Jean Gao
+  publisher: BioMed Research International
+  date: '2014-01-01'
+  link: https://doi.org/gb84mg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4127230/bin/BMRI2014-629697.003.jpg
+  tags:
+  - journal
+- id: doi:10.1142/S021972001342002X
+  title: "CNCTDISCRIMINATOR: CODING AND NONCODING TRANSCRIPT DISCRIMINATOR \u2014\
+    \ AN EXCURSION THROUGH HYPOTHESIS LEARNING AND ENSEMBLE LEARNING APPROACHES"
+  authors:
+  - ASHIS KUMER BISWAS
+  - BAOJU ZHANG
+  - XIAOYONG WU
+  - JEAN X. GAO
+  publisher: Journal of Bioinformatics and Computational Biology
+  date: '2013-10-16'
+  link: https://doi.org/f56jq6
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/journals/covergifs/jbcb/cover.jpg
+  tags:
+  - journal
+- id: doi:10.1109/JBHI.2013.2281947
+  title: Models and Methods for Quantitative Analysis of Surface-Enhanced Raman Spectra
+  authors:
+  - ' Shuo Li'
+  - James O. Nyagilo
+  - Digant P. Dave
+  - Jean Gao
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  date: '2014-03-01'
+  link: https://doi.org/gnhqrs
+  image: https://d3i71xaburhd42.cloudfront.net/c40b9b9f023cd36f6f711d72d813f60b8612f122/250px/2-Figure1-1.png
+  tags:
+  - journal
+- id: doi:10.1109/TNB.2013.2278288
+  title: Continuous Wavelet Transform Based Partial Least Squares Regression for Quantitative
+    Analysis of Raman Spectrum
+  authors:
+  - ' Shuo Li'
+  - James O. Nyagilo
+  - Digant P. Dave
+  - Jean X. Gao
+  publisher: IEEE Transactions on NanoBioscience
+  date: '2013-09-01'
+  link: https://doi.org/gnhqrt
+  image: https://rc.library.uta.edu/uta-ir/bitstream/handle/10106/23921/Li_uta_2502D_12349.pdf.jpg?sequence=3&isAllowed=y
+  tags:
+  - journal
+- id: doi:10.1504/ijdmb.2013.054224
+  title: Eigenspectra, a robust regression method for multiplexed Raman spectra analysis
+  authors:
+  - Shuo Li
+  - James O. Nyagilo
+  - Digant P. Dave
+  - Baoju Zhang
+  - Jean Gao
+  publisher: International Journal of Data Mining and Bioinformatics
+  date: '2013-01-01'
+  link: https://doi.org/gnhqrv
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5695142/5706520/5706622/5706622-fig-1-source-small.gif
+  tags:
+  - journal
+- id: doi:10.1109/BIBM.2011.121
+  title: A Framework for Personalized Medicine with Reverse Phase Protein Array and
+    Drug Sensitivity
+  authors:
+  - Dong-Chul Kim
+  - Jean Gao
+  - Xiaoyu Wang
+  - Chin-Rang Yang
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2011-11-01'
+  link: https://doi.org/fzqssk
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6120121/6120396/6120480/6120480-fig-2-source-small.gif
+  tags:
+  - journal
+- id: doi:10.1109/TCBB.2010.42
+  title: Fast Kernel Discriminant Analysis for Classification of Liver Cancer Mass
+    Spectra
+  authors:
+  - Jung Hun Oh
+  - Jean Gao
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2011-11-01'
+  link: https://doi.org/cv8d55
+  image: https://d3i71xaburhd42.cloudfront.net/296759fc6a08e3b9cc5bdc57bf23821d820e67b8/250px/10-Figure2-1.png
+  tags:
+  - journal
+- id: doi:10.1109/TKDE.2010.156
+  title: Branch-and-Bound for Model Selection and Its Computational Complexity
+  authors:
+  - Ninad Thakoor
+  - Jean Gao
+  publisher: IEEE Transactions on Knowledge and Data Engineering
+  date: '2011-05-01'
+  link: https://doi.org/fwr74g
+  image: https://csdl-images.computer.org/website/default-covers/trans/tk.jpg
+  tags:
+  - journal
+- id: doi:10.1186/1471-2105-11-S3-S9
+  title: Learning biological network using mutual information and conditional independence
+  authors:
+  - Dong-Chul Kim
+  - Xiaoyu Wang
+  - Chin-Rang Yang
+  - Jean Gao
+  publisher: BMC Bioinformatics
+  date: '2010-04-29'
+  link: https://doi.org/b46cng
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/2863068/bin/1471-2105-11-S3-S9-6.gif
+  tags:
+  - journal
+- id: doi:10.1109/TIP.2010.2042647
+  title: Multibody Structure-and-Motion Segmentation by Branch-and-Bound Model Selection
+  authors:
+  - Ninad Thakoor
+  - Jean Gao
+  - Venkat Devarajan
+  publisher: IEEE Transactions on Image Processing
+  date: '2010-06-01'
+  link: https://doi.org/fh9z9q
+  image: https://i1.rgstatic.net/publication/224164285_Multi-Structure_Model_Selection_via_Kernel_Optimisation/links/54b79f530cf24eb34f6ec2a2/largepreview.png
+  tags:
+  - journal
+- id: doi:10.1186/1471-2105-10-S4-S7
+  title: A kernel-based approach for detecting outliers of high-dimensional biological
+    data
+  authors:
+  - Jung Hun Oh
+  - Jean Gao
+  publisher: BMC Bioinformatics
+  date: '2009-04-29'
+  link: https://doi.org/gb8t5z
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2105-10-S4-S7/MediaObjects/12859_2009_Article_3286_Fig1_HTML.jpg?as=webp
+  tags:
+  - journal
+- id: doi:10.1109/TITB.2008.2007909
+  title: An Extended Markov Blanket Approach to Proteomic Biomarker Detection From
+    High-Resolution Mass Spectrometry Data
+  authors:
+  - ' Jung Hun Oh'
+  - P. Gurnani
+  - J. Schorge
+  - K.P. Rosenblatt
+  - J.X. Gao
+  publisher: IEEE Transactions on Information Technology in Biomedicine
+  date: '2009-03-01'
+  link: https://doi.org/dpt3pd
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4233/4797995/4732145/4732145-fig-1-source-small.gif
+  tags:
+  - journal
+- id: doi:10.1093/bioinformatics/btn316
+  title: Biomarker selection and sample prediction for multi-category disease on MALDI-TOF
+    data
+  authors:
+  - J. H. Oh
+  - Y. B. Kim
+  - P. Gurnani
+  - K. P. Rosenblatt
+  - J. X. Gao
+  publisher: Bioinformatics
+  date: '2008-06-18'
+  link: https://doi.org/c6cc8g
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/24/16/10.1093/bioinformatics/btn316/2/m_btn316f1.jpeg?Expires=1640206785&Signature=LaAQClmLNuZbN7Sqhk-8dSpmXWfHYLIbphrTvTBY-cdSfwystF-7X1vz7QFeXA08y-sexsyTc8XmxY~7r22SQBIt3FGZhFtzAynSBqa-UB7eIK3mCsFQe6wsvXak6ea8uwzNBfGc03l-n7Ng7qPfIpOrRXSgcws6JWSsGZl1QrK8L3mC~thDQ~XZSE6aE5YfR99d557zOFVX8IG3nj2wDNup0pxz9N645ZKuAsgBfTDjQNqgtQqLOIHUTahQr5PXHEDWFbaH3WSKkk3FIBBrKzoK2PQxvplgF7jT9Jl-OQSEUO10jvd6~dO5Dp562OM7WX5bYRITWXBwbOy~PjbjHQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - journal
+- id: doi:10.1109/TIP.2008.2004432
+  title: Multistage Branch-and-Bound Merging for Planar Surface Segmentation in Disparity
+    Space
+  authors:
+  - N. Thakoor
+  - J. Gao
+  - V. Devarajan
+  publisher: IEEE Transactions on Image Processing
+  date: '2008-11-01'
+  link: https://doi.org/drt6t6
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/83/4648460/4637893/4637893-fig-1-source-small.gif
+  tags:
+  - journal
+- id: doi:10.1109/IEMBS.2007.4353259
+  title: Tracking Interacting Subcellular Structures By Sequential Monte Carlo Method
+  authors:
+  - Quan Wen
+  - Jean Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2007-08-01'
+  link: https://doi.org/bhvxjc
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4413017/4413018/4413088/4413088-fig-1-source-small.gif
+  tags:
+  - journal
+- id: doi:10.1021/pr700630x
+  title: Application of Targeted Quantitative Proteomics Analysis in Human Cerebrospinal
+    Fluid Using a Liquid Chromatography Matrix-Assisted Laser Desorption/Ionization
+    Time-of-Flight Tandem Mass Spectrometer (LC MALDI TOF/TOF) Platform
+  authors:
+  - Sheng Pan
+  - John Rush
+  - Elaine R. Peskind
+  - Douglas Galasko
+  - Kathryn Chung
+  - Joseph Quinn
+  - Joseph Jankovic
+  - James B. Leverenz
+  - Cyrus Zabetian
+  - Catherine Pan
+  - Yan Wang
+  - Jung Hun Oh
+  - Jean Gao
+  - Jianpeng Zhang
+  - Thomas Montine
+  - Jing Zhang
+  publisher: Journal of Proteome Research
+  date: '2008-01-11'
+  link: https://doi.org/bsv83j
+  image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jprobs/2008/jprobs.2008.7.issue-2/pr700630x/staging/images/medium/pr-2007-00630x_0008.gif
+  tags:
+  - journal
+- id: doi:10.1109/ICIP.2007.4379568
+  title: A Statistical Approach for Intensity Loss Compensation of Confocal Microscopy
+    Images
+  authors:
+  - Sowmya Gopinath
+  - Ninad Thakoor
+  - Jean Gao
+  - Kate Luby-Phelps
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2007-01-01'
+  link: https://doi.org/cwqx4s
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4378863/4379494/4379568/4379568-fig-4-source-small.gif
+  tags:
+  - journal
+- id: doi:10.1109/TIP.2007.908076
+  title: Hidden Markov Model-Based Weighted Likelihood Discriminant for 2-D Shape
+    Classification
+  authors:
+  - Ninad Thakoor
+  - Jean Gao
+  - Sungyong Jung
+  publisher: IEEE Transactions on Image Processing
+  date: '2007-11-01'
+  link: https://doi.org/fcvtpx
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/83/4337753/4337770/4337770-fig-3-source-small.gif
+  tags:
+  - journal
+- id: doi:10.1016/j.acra.2007.07.002
+  title: Four-Dimensional Vascular Tree Reconstruction Using Moving Grid Deformation
+  authors:
+  - Jiaxing Xue
+  - Gary Arbique
+  - Dan Hatef
+  - Spencer Brown
+  - Michel Saint-Cyr
+  - Jean X. Gao
+  publisher: Academic Radiology
+  date: '2007-12-01'
+  link: https://doi.org/dxsnrw
+  image: data:image/jpeg;base64,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
+  tags:
+  - journal
+- id: doi:10.1109/TFUZZ.2006.890668
+  title: Wireless Sensor Network Lifetime Analysis Using Interval Type-2 Fuzzy Logic
+    Systems
+  authors:
+  - ' Haining Shu'
+  - ' Qilian Liang'
+  - ' Jean Gao'
+  publisher: IEEE Transactions on Fuzzy Systems
+  date: '2008-04-01'
+  link: https://doi.org/dpr37k
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/91/4481139/4443865/4443865-fig-2-source-small.gif
+  tags:
+  - journal
+- id: doi:https://doi.org/10.1016/j.acra.2006.03.004
+  title: New Discoveries of Image Display Size on Observer Performance
+  authors:
+  - Jean Gao
+  publisher: Academic Radiology
+  date: '2006-04-01'
+  link: https://doi.org/c3vmj7
+  image: https://demo.vdocuments.net/img/745x1004/reader019/reader/2020030412/57509a931a28abbf6beee3e7/r-1.jpg
+  tags:
+  - journal
+- id: doi:https://doi.org/10.1142/9789812702098_0037
+  title: A TWO-WAY SEARCHING ALGORITHM FOR <i>DE NOVO</i> PEPTIDE SEQUENCING VIA TANDEM
+    MASS SPECTROMETRY
+  authors:
+  - JUNG HUN OH
+  - YOUNG BUN KIM
+  - JEAN GAO
+  publisher: World Scientific Pub Co Pte Ltd
+  date: '2005-05-01'
+  link: https://doi.org/dqngbh
+  image: https://www.researchgate.net/profile/Jung-Hun-Oh/publication/26623736/figure/fig3/AS:393406611247109@1470806853379/Comparison-of-search-speed-with-and-without-bootstrapping-algorithm-Algorithm-2.png
+  tags:
+  - journal
+- id: doi:https://doi.org/10.1016/j.cviu.2004.10.012
+  title: A multi-Kalman filtering approach for video tracking of human-delineated
+    objects in cluttered environments
+  authors:
+  - Jean Gao
+  - Akio Kosaka
+  - Avinash C. Kak
+  publisher: Computer Vision and Image Understanding
+  date: '2006-06-01'
+  link: https://doi.org/dg5x8m
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1077314206000129-gr1.gif
+  tags:
+  - journal
+- id: doi:10.1097/01.prs.0000239450.92690.72
+  title: 'Defining Vascular Supply and Territory of Thinned Perforator Flaps: Part
+    II. Superior Gluteal Artery Perforator Flap'
+  authors:
+  - Kimihiro Nojima
+  - Spencer A. Brown
+  - Cengiz Acikel
+  - Jeffrey Janis
+  - Gary Arbique
+  - Tarek Abulezz
+  - Jean Gao
+  - Quan Wen
+  - Kunihiro Kurihara
+  - Rod J. Rohrich
+  publisher: Plastic and Reconstructive Surgery
+  date: '2006-11-01'
+  link: https://doi.org/b95kxw
+  image: https://images.journals.lww.com/plasreconsurg/LargeRollover.00006534-200609150-00000.CV.jpeg
+  tags:
+  - journal
+- id: doi:https://doi.org/10.11234/gi1990.16.2_195
+  title: Diagnosis of Early Relapse in Ovarian Cancer Using Serum Proteomic Profiling
+  authors:
+  - Jung Hun Oh
+  - Jean Gaol
+  - Animesh Nandi
+  - Prem Gurnani
+  - Lynne Knowles
+  - John Schorge
+  - Kevin P. Rosenblatt
+  publisher: Genome Informatics
+  date: '2005-01-01'
+  link: https://doi.org/gnhqrx
+  image: https://www.researchgate.net/profile/Jung-Hun-Oh/publication/6886351/figure/tbl1/AS:601612670234627@1520447046079/Serum-sample-information.png
+  tags:
+  - journal
+- id: doi:10.1109/ICPR.2006.889
+  title: Occlusion Resistant Shape Classifier based onWarped Optimal Path Matching
+  authors:
+  - N. Thakoor
+  - ' Sungyong Jung'
+  - ' Quan Wen'
+  - J. Gao
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2006-01-01'
+  link: https://doi.org/cz3jq4
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/11159/35818/1699148/1699148-fig-1-source-small.gif
+  tags:
+  - journal
+- id: doi:10.1016/j.acra.2005.05.005
+  title: A Deformable Model for Automatic CT Liver Extraction1
+  authors:
+  - Jean Gao
+  - Akio Kosaka
+  - Avinash Kak
+  publisher: Academic Radiology
+  date: '2005-09-01'
+  link: https://doi.org/d9s6w6
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1076633205004058-gr1.jpg
+  tags:
+  - journal
+- id: doi:https://doi.org/10.1016/j.joca.2015.09.004
+  title: Which patellofemoral joint imaging features are associated with patellofemoral
+    pain? Systematic review and meta-analysis
+  authors:
+  - B.T. Drew
+  - A.C. Redmond
+  - T.O. Smith
+  - F. Penny
+  - P.G. Conaghan
+  publisher: Osteoarthritis and Cartilage
+  date: '2016-02-01'
+  link: https://doi.org/f77mm2
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1063458415013187-gr1.jpg
+  tags:
+  - journal
